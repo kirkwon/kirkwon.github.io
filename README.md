@@ -1,3 +1,3 @@
-# kirkwon.github.io
+# kirkwon.com
 
 hello world;
