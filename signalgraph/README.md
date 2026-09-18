@@ -4,7 +4,7 @@
 
 A framework-independent charting component that demonstrates deep browser platform knowledge: reactive signals from scratch, swappable rendering backends, Shadow DOM encapsulation, and a CSS custom properties theming API.
 
-[Live Demo](https://www.kirkwon.com/signalgraph/) | [Why Signals Beat VDOM](docs/why-signals-beat-vdom.md) | [Shadow DOM Pitfalls](docs/shadow-dom-pitfalls.md)
+[Live Demo](https://kirkwon.github.io/signalgraph/) | [Why Signals Beat VDOM](docs/why-signals-beat-vdom.md) | [Shadow DOM Pitfalls](docs/shadow-dom-pitfalls.md)
 
 ---
 
@@ -80,7 +80,7 @@ CSS custom properties are the only CSS that crosses Shadow DOM boundaries — ma
 
 ```
 signalgraph/
-├── index.html              — Interactive demo
+├── index.html              — Interactive demo (renderer comparison · live signals: BTC ticker, mic waveform, pointer velocity)
 ├── src/
 │   ├── core/
 │   │   └── signal.js       — Reactive signal system
